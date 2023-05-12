@@ -5,7 +5,7 @@
 **My Work Profile**\
 [![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/andrei-soroka-2b98b721a/)
 
-I am a motivated backend developer from Minsk. As a wheelchair user, I want to keep the fire inmy eyes and develop further, because I get real pleasure from gaining new knowledge andacquiring new skills. As an engineer, to some extent a creative person, I always liked to see the liveresult of my work, so backend development attracted me to programming.
+I am a motivated backend developer from Minsk. As a wheelchair user, I want to keep the fire in my eyes and develop further, because I get real pleasure from gaining new knowledge andacquiring new skills. As an engineer, to some extent a creative person, I always liked to see the liveresult of my work, so backend development attracted me to programming.
 
 ## **Skills & Technologies** ##
 + **Backend:** Java Core / Java 17 / Java EE / Spring (MVC, Boot, Data, Security, Cloud) / Hibernate / SQL: MySQL, PostgreSQL / JUnit / Mockito / Thymeleaf / AWS 
