@@ -15,10 +15,14 @@
 [![](https://img.shields.io/badge/-WhatsApp-27d045?logo=whatsapp&logoColor=white&style=for-the-badge)](https://api.whatsapp.com/send?phone=375291406806)
 [![](https://img.shields.io/badge/-Telegram-33B0E2?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/androseto)
 [![](https://img.shields.io/badge/-Skype-0091D2?logo=skype&logoColor=white&style=for-the-badge)](skype:androsor99?chat)
+[![](https://img.shields.io/badge/-Gmail-dd4e42?logo=gmail&logoColor=white&style=for-the-badge)](mailto:javaded78@gmail.com)
 
-I am a motivated backend developer from Minsk. As a wheelchair user, I want to keep the fire in my eyes and develop
+- 🔭 I am a motivated backend developer from Minsk. As a wheelchair user, I want to keep the fire in my eyes and develop
 further, because I get real pleasure from gaining new knowledge andacquiring new skills. As an engineer, to some extent
 a creative person, I always liked to see the liveresult of my work, so backend development attracted me to programming.
+- 🌱 I’m currently learning and discussing emerging technologies! I'm always interested in learning about new tech.
+- 👯 I’m looking to collaborate on Backend development based projects.
+- 📫 How to reach me: shashwat171@outlook.com
 
 ## **Skills & Technologies** ##
 
