@@ -18,11 +18,10 @@
 [![](https://img.shields.io/badge/-Gmail-dd4e42?logo=gmail&logoColor=white&style=for-the-badge)](mailto:javaded78@gmail.com)
 
 - 🔭 I am a motivated backend developer from Minsk. As a wheelchair user, I want to keep the fire in my eyes and develop
-further, because I get real pleasure from gaining new knowledge andacquiring new skills. As an engineer, to some extent
-a creative person, I always liked to see the liveresult of my work, so backend development attracted me to programming.
+further, because I get real pleasure from gaining new knowledge and acquiring new skills. As an engineer, to some extent
+a creative person, I always liked to see the live result of my work, so backend development attracted me to programming.
 - 🌱 I’m currently learning and discussing emerging technologies! I'm always interested in learning about new tech.
 - 👯 I’m looking to collaborate on Backend development based projects.
-- 📫 How to reach me: shashwat171@outlook.com
 
 ## **Skills & Technologies** ##
 
@@ -105,9 +104,3 @@ a creative person, I always liked to see the liveresult of my work, so backend d
 * English - intermediate
 * Russian - native
 
-## **Contacts** ##
-
-**Location:** Minsk, Belarus\
-**Email:** javaded78@gmail.com\
-**Discord:** androsor99#8675\
-**Telegram:** @androseto
