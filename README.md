@@ -1,4 +1,6 @@
-![MasterHead](assets/user.gif)
+<div align="center">
+<img src="assets/user.gif" width="500px" alt="Soroka Andrei">
+</div>
 
 # Hello there 👋, my name is Andrei! I'm Java Developer #
 
