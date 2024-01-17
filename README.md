@@ -27,8 +27,9 @@ a creative person, I always liked to see the live result of my work, so backend 
 
 ## **Skills & Technologies** ##
 
-+ **Backend:** Java Core / Java 17 / Java EE / Spring (MVC, Boot, Data, Security, Cloud) / Hibernate / SQL: MySQL,
-  PostgreSQL / JUnit / Mockito / Thymeleaf / AWS
++ **Backend:** Java Core / Java 8,11,17,21 / Java EE / Spring ( Boot, Web, Data, Security, Cloud, Messaging, WebFlux) / Hibernate / SQL: MySQL,
+  PostgreSQL / MongoDB / Redis / Groovy / Gradle / Thymeleaf / Maven / JUnit / Swagger / Git / Docker / Bash / Postman /
+Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer /  GraphQL / Grpc / AWS
 
 ####
 
@@ -95,6 +96,7 @@ a creative person, I always liked to see the live result of my work, so backend 
     + **Udemy** - «Hibernate» (https://www.udemy.com/course/hibernate-dmdev)
     + **Udemy** - «Spring» (https://www.udemy.com/course/spring-dmdev)
     + **Udemy** - «Bash» (https://www.udemy.com/course/bash-dmdev)
+    + ..........
 
 * Traineeship
     + **EPAM Systems** - UpSkill Lab: Java WebDevelopment #1
