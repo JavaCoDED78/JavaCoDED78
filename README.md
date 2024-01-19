@@ -27,7 +27,8 @@ a creative person, I always liked to see the live result of my work, so backend 
 
 ## **Skills & Technologies** ##
 
-+ **Backend:** Java Core / Java 8,11,17,21 / Java EE / Spring ( Boot, Web, Data, Security, Cloud, Messaging, WebFlux) / Hibernate / SQL: MySQL,
+### Backend:
+- Java Core / Java 8,11,17,21 / Java EE / Spring ( Boot, Web, Data, Security, Cloud, Messaging, WebFlux) / Hibernate / SQL: MySQL,
   PostgreSQL / MongoDB / Redis / Groovy / Gradle / Thymeleaf / Maven / JUnit / Swagger / Git / Docker / Bash / Postman /
 Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer /  GraphQL / Grpc / AWS
 
@@ -62,7 +63,8 @@ Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer /  GraphQ
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="aws" width="40" height="40"/></a>
 <a href="https://min.io/" target="_blank" rel="noreferrer"> <img src="https://min.io/resources/img/logo/MINIO_Bird.png" alt="minio" width="40" height="40"/></a>
 
-+ **Frontend:** JavaScript / TypeScript / React / Redux Toolkit / Redux Saga / Material-UI / Ant Design / Jest /
+### Frontend:
++ JavaScript / TypeScript / React / Redux Toolkit / Redux Saga / Material-UI / Ant Design / Jest /
   Enzyme / HTML5 / Bootstrap / CSS3 / Sass
 
 ####
