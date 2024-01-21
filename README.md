@@ -6,7 +6,7 @@
 
 [![](https://komarev.com/ghpvc/?username=JavaCoDED78&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/JavaCoDED78)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JavaCoDED78&theme=onedark" alt="Soroka Andrei" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JavaCoDED78&theme=nord" alt="Soroka Andrei" /></a> </p>
 
 ## **About me** ##
 
@@ -109,4 +109,9 @@ Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer /  GraphQ
 * Belarusian - native
 * English - intermediate
 * Russian - native
+
+
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=JavaCoDED78&show_icons=true&theme=nord&hide_border=true" alt="Andrei Soroka" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=JavaCoDED78&theme=nord&hide_border=true" />
+
 
