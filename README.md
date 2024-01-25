@@ -110,9 +110,6 @@ Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer /  GraphQ
 * English - intermediate
 * Russian - native
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=JavaCoDED78&show_icons=true&theme=nord&hide_border=true" alt="Andrei Soroka" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=JavaCoDED78&theme=nord&hide_border=true" alt="Andrei Soroka" />
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavaCoDED78&show_icons=true&theme=nord&hide_border=true&locale=en&layout=donut" alt="Andrei Soroka" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=JavaCoDED78&show_icons=true&theme=nord&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com?user=JavaCoDED78&theme=nord&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=JavaCoDED78&show_icons=true&theme=nord&hide_border=true&locale=en&layout=donut )
