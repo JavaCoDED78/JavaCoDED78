@@ -112,7 +112,12 @@ Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer /  GraphQ
 * English - intermediate
 * Russian - native
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JavaCoDED78&theme=nord_dark" alt="Github stats">
+</p>
+
 ![](https://github-readme-stats.vercel.app/api?username=JavaCoDED78&show_icons=true&theme=nord&hide_border=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavaCoDED78&show_icons=true&theme=nord&hide_border=true&locale=en&layout=compact" width="355"/>
-![](https://github-readme-streak-stats.herokuapp.com?user=JavaCoDED78&theme=nord&hide_border=true)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JavaCoDED78&theme=nord&hide_border=true" alt="Github stats">
+</p>
