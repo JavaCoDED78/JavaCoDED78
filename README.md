@@ -30,7 +30,7 @@ a creative person, I always liked to see the live result of my work, so backend 
 ### Backend:
 - Java Core / Java 8,11,17,21 / Java EE / Spring ( Boot, Web, Data, Security, Cloud, Messaging, WebFlux) / Hibernate / SQL: MySQL,
   PostgreSQL / MongoDB / Redis / Groovy / Gradle / Thymeleaf / Maven / JUnit / Swagger / Git / Docker / Bash / Postman /
-Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer /  GraphQL / Grpc / AWS
+Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer / Debezium / GraphQL / Grpc / AWS
 
 ####
 
@@ -42,7 +42,7 @@ Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer /  GraphQ
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/></a>
-<a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg" alt="groovy" width="40" height="40"/></a>
+<a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/></a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/></a>
 <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="40" height="40"/></a>
 <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"> <img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="thymeleaf" width="40" height="40"/></a>
@@ -53,7 +53,7 @@ Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer /  GraphQ
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="kotlin" width="40" height="40"/></a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/></a>
@@ -61,7 +61,7 @@ Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer /  GraphQ
 <a href="https://debezium.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/debeziumio/debeziumio-icon.svg" alt="minio" width="40" height="40"/></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
 <a href="https://grpc.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="grpc" width="40" height="40"/></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="aws" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://min.io/" target="_blank" rel="noreferrer"> <img src="https://min.io/resources/img/logo/MINIO_Bird.png" alt="minio" width="40" height="40"/></a>
 
 
@@ -75,7 +75,7 @@ Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer /  GraphQ
   <a href="https://ru.legacy.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/></a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="redux" width="40" height="40"/></a> 
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo.png" alt="material-ui" width="40" height="40"/></a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="material-ui" width="40" height="40"/></a>
   <a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="ant-design-ui" width="40" height="40"/></a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/></a>
@@ -116,8 +116,11 @@ Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer /  GraphQ
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JavaCoDED78&theme=nord_dark" alt="Github stats">
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=JavaCoDED78&show_icons=true&theme=nord&hide_border=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JavaCoDED78&show_icons=true&theme=nord&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavaCoDED78&show_icons=true&theme=nord&hide_border=true&locale=en&layout=compact" width="355"/>
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JavaCoDED78&theme=nord&hide_border=true" alt="Github stats">
 </p>
