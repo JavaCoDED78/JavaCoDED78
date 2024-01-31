@@ -117,10 +117,10 @@ Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer / Debeziu
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JavaCoDED78&show_icons=true&theme=nord&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavaCoDED78&show_icons=true&theme=nord&hide_border=true&locale=en&layout=compact" width="355"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JavaCoDED78&show_icons=true&theme=nord&" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavaCoDED78&show_icons=true&theme=nord&&locale=en&layout=compact" width="355"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JavaCoDED78&theme=nord&hide_border=true" alt="Github stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JavaCoDED78&theme=nord" alt="Github stats">
 </p>
