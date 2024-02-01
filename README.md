@@ -1,12 +1,15 @@
-<div align="center">
-<img src="assets/user.gif" width="500px" alt="Soroka Andrei">
+<div style="display: flex; justify-content: center;">
+<img src="assets/user.gif" width="500" alt="Soroka Andrei">
 </div>
 
 # Hello there 👋, my name is Andrei! I'm Java Developer #
 
 [![](https://komarev.com/ghpvc/?username=JavaCoDED78&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/JavaCoDED78)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JavaCoDED78&theme=nord" alt="Soroka Andrei" /></a> </p>
+<div style="display: flex; justify-content: center;">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JavaCoDED78&theme=nord" alt="Soroka Andrei" /></a>
+</div>
+
 
 ## **About me** ##
 
@@ -20,17 +23,21 @@
 [![](https://img.shields.io/badge/-Gmail-dd4e42?logo=gmail&logoColor=white&style=for-the-badge)](mailto:javaded78@gmail.com)
 
 - 🔭 I am a motivated backend developer from Minsk. As a wheelchair user, I want to keep the fire in my eyes and develop
-further, because I get real pleasure from gaining new knowledge and acquiring new skills. As an engineer, to some extent
-a creative person, I always liked to see the live result of my work, so backend development attracted me to programming.
+  further, because I get real pleasure from gaining new knowledge and acquiring new skills. As an engineer, to some
+  extent
+  a creative person, I always liked to see the live result of my work, so backend development attracted me to
+  programming.
 - 🌱 I’m currently learning and discussing emerging technologies! I'm always interested in learning about new tech.
 - 👯 I’m looking to collaborate on Backend development based projects.
 
 ## **Skills & Technologies** ##
 
 ### Backend:
-- Java Core / Java 8,11,17,21 / Java EE / Spring ( Boot, Web, Data, Security, Cloud, Messaging, WebFlux) / Hibernate / SQL: MySQL,
+
+- Java Core / Java 8,11,17,21 / Java EE / Spring ( Boot, Web, Data, Security, Cloud, Messaging, WebFlux) / Hibernate /
+  SQL: MySQL,
   PostgreSQL / MongoDB / Redis / Groovy / Gradle / Thymeleaf / Maven / JUnit / Swagger / Git / Docker / Bash / Postman /
-Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer / Debezium / GraphQL / Grpc / AWS
+  Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer / Debezium / GraphQL / Grpc / AWS
 
 ####
 
@@ -64,12 +71,13 @@ Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer / Debeziu
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://min.io/" target="_blank" rel="noreferrer"> <img src="https://min.io/resources/img/logo/MINIO_Bird.png" alt="minio" width="40" height="40"/></a>
 
-
 ### Frontend:
+
 + JavaScript / TypeScript / React / Redux Toolkit / Redux Saga / Material-UI / Ant Design / Jest /
   Enzyme / HTML5 / Bootstrap / CSS3 / Sass
 
 ####
+
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/></a> 
   <a href="https://ru.legacy.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/></a>
@@ -81,7 +89,6 @@ Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer / Debeziu
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/></a> 
   <a href="https://www.w3.org/Style/CSS/Overview.ru.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="css3" width="40" height="40"/></a>
-
 
 ## **Education** ##
 
@@ -112,15 +119,15 @@ Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer / Debeziu
 * English - intermediate
 * Russian - native
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JavaCoDED78&theme=nord_dark" alt="Github stats">
-</p>
+<div style="display: flex; justify-content: center; margin: 10px">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JavaCoDED78&theme=nord_dark" alt="Github stats" />
+</div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JavaCoDED78&show_icons=true&theme=nord&" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavaCoDED78&show_icons=true&theme=nord&&locale=en&layout=compact" width="355"/>
-</p>
+<div style="display: flex; justify-content: center; margin: 10px;">
+<img src="https://github-readme-stats.vercel.app/api?username=JavaCoDED78&show_icons=true&theme=nord&" style="padding-right: 10px" alt="Github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavaCoDED78&show_icons=true&theme=nord&&locale=en&layout=compact" width="355" alt="Github stats" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JavaCoDED78&theme=nord" alt="Github stats">
-</p>
+<div style="display: flex; justify-content: center; margin: 10px">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JavaCoDED78&theme=nord" alt="Github stats">
+</div>
