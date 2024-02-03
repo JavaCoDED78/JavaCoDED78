@@ -11,7 +11,8 @@
 ## **About me** ##
 
 **My Work Profile**\
-[![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/andrei-soroka-2b98b721a/)
+[![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/javacoded78/)
+)
 [![](https://img.shields.io/badge/-Discord-5662F5?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/762913229772292126/)
 [![](https://img.shields.io/badge/-Viber-7360F2?logo=viber&logoColor=white&style=for-the-badge)](viber://chat?number=%2B375291406806)
 [![](https://img.shields.io/badge/-WhatsApp-27d045?logo=whatsapp&logoColor=white&style=for-the-badge)](https://api.whatsapp.com/send?phone=375291406806)
