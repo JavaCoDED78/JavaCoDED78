@@ -12,7 +12,6 @@
 
 **My Work Profile**\
 [![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/javacoded78/)
-)
 [![](https://img.shields.io/badge/-Discord-5662F5?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/762913229772292126/)
 [![](https://img.shields.io/badge/-Viber-7360F2?logo=viber&logoColor=white&style=for-the-badge)](viber://chat?number=%2B375291406806)
 [![](https://img.shields.io/badge/-WhatsApp-27d045?logo=whatsapp&logoColor=white&style=for-the-badge)](https://api.whatsapp.com/send?phone=375291406806)
@@ -30,7 +29,7 @@ a creative person, I always liked to see the live result of my work, so backend 
 
 ### Backend:
 - Java Core / Java 8,11,17,21 / Java EE / Spring ( Boot, Web, Data, Security, Cloud, Messaging, WebFlux) / Hibernate / SQL: MySQL,
-  PostgreSQL / MongoDB / Redis / Groovy / Gradle / Thymeleaf / Maven / JUnit / Swagger / Git / Docker / Bash / Postman /
+  PostgreSQL / MongoDB / Redis / Liquibase / Groovy / Gradle / Thymeleaf / Maven / JUnit / Swagger / Git / Docker / Bash / Postman /
 Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer / Debezium / GraphQL / Grpc / AWS
 
 ####
@@ -43,6 +42,7 @@ Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer / Debeziu
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/></a>
+<a href="https://www.liquibase.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/cncf/landscape/b1f3bfaaca9602b0b3d4303a3240356b51b94557/hosted_logos/liquibase.svg" alt="liquibase" width="40" height="40"/></a>
 <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/></a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/></a>
 <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="40" height="40"/></a>
