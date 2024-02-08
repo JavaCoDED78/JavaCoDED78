@@ -30,7 +30,7 @@ a creative person, I always liked to see the live result of my work, so backend 
 ### Backend:
 - Java Core / Java 8,11,17,21 / Java EE / Spring ( Boot, Web, Data, Security, Cloud, Messaging, WebFlux) / Hibernate / SQL: MySQL,
   PostgreSQL / MongoDB / Redis / Liquibase / Groovy / Gradle / MapStruct / Thymeleaf / Maven / JUnit / Swagger / Git / Docker / Bash / Postman /
-Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer / Debezium / GraphQL / Grpc / AWS S3 / Minio 
+Kotlin / Apache Kafka / RabbitMQ / Kubernetes / Prometheus / Grafana / Micrometer / Debezium / GraphQL / Grpc / AWS S3 / Minio 
 
 ####
 
@@ -60,6 +60,7 @@ Kotlin / Apache Kafka / Kubernetes / Prometheus / Grafana / Micrometer / Debeziu
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="kotlin" width="40" height="40"/></a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/></a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
