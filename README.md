@@ -10,7 +10,8 @@
 
 ## **About me** ##
 
-**My Work Profile**\
+**My Work Profile**
+
 [![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/javacoded78/)
 [![](https://img.shields.io/badge/-Discord-5662F5?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/762913229772292126/)
 [![](https://img.shields.io/badge/-Viber-7360F2?logo=viber&logoColor=white&style=for-the-badge)](viber://chat?number=%2B375291406806)
