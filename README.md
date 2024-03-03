@@ -17,7 +17,7 @@
 <a href="https://viber.click/375291406806" target="_blank" rel="noreferrer">![](https://img.shields.io/badge/-Viber-7360F2?logo=viber&logoColor=white)</a>
 [![](https://img.shields.io/badge/-WhatsApp-27d045?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=375291406806)
 [![](https://img.shields.io/badge/-Telegram-33B0E2?logo=telegram&logoColor=white)](https://t.me/androseto)
-[![](https://img.shields.io/badge/-Skype-0091D2?logo=skype&logoColor=white&)](skype:androsor99?chat)
+[![](https://img.shields.io/badge/-Skype-0091D2?logo=skype&logoColor=white&)](https://join.skype.com/invite/NRREpCPYwwEV)
 [![](https://img.shields.io/badge/-Gmail-dd4e42?logo=gmail&logoColor=white)](mailto:javaded78@gmail.com)
 [![](https://img.shields.io/badge/-StackOverflow-e7700d?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25639184/andrei-soroka)
 
