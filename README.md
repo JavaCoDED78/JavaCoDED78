@@ -14,7 +14,7 @@
 
 [![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javacoded78/)
 [![](https://img.shields.io/badge/-Discord-5662F5?logo=discord&logoColor=white)](https://discordapp.com/users/762913229772292126/)
-<a href="https://viber.click/375291406806" target="_blank" rel="noreferrer">![](https://img.shields.io/badge/-Viber-7360F2?logo=viber&logoColor=white)</a>
+[![](https://img.shields.io/badge/-Viber-7360F2?logo=viber&logoColor=white)](https://viber.click/375291406806)
 [![](https://img.shields.io/badge/-WhatsApp-27d045?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=375291406806)
 [![](https://img.shields.io/badge/-Telegram-33B0E2?logo=telegram&logoColor=white)](https://t.me/androseto)
 [![](https://img.shields.io/badge/-Skype-0091D2?logo=skype&logoColor=white&)](https://join.skype.com/invite/NRREpCPYwwEV)
