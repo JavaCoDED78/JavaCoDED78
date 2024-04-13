@@ -12,14 +12,14 @@
 
 **My Work Profile**
 
-[![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/javacoded78/)
-[![](https://img.shields.io/badge/-Discord-5662F5?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/762913229772292126/)
-[![](https://img.shields.io/badge/-Viber-7360F2?logo=viber&logoColor=white&style=for-the-badge)](viber://chat?number=%2B375291406806)
-[![](https://img.shields.io/badge/-WhatsApp-27d045?logo=whatsapp&logoColor=white&style=for-the-badge)](https://api.whatsapp.com/send?phone=375291406806)
-[![](https://img.shields.io/badge/-Telegram-33B0E2?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/androseto)
-[![](https://img.shields.io/badge/-Skype-0091D2?logo=skype&logoColor=white&style=for-the-badge)](skype:androsor99?chat)
-[![](https://img.shields.io/badge/-Gmail-dd4e42?logo=gmail&logoColor=white&style=for-the-badge)](mailto:javaded78@gmail.com)
-[![](https://img.shields.io/badge/-StackOverflow-e7700d?logo=stackoverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/25639184/andrei-soroka)
+[![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javacoded78/)
+[![](https://img.shields.io/badge/-Discord-5662F5?logo=discord&logoColor=white)](https://discordapp.com/users/762913229772292126/)
+[![](https://img.shields.io/badge/-Viber-7360F2?logo=viber&logoColor=white)](viber://chat?number=%2B375291406806)
+[![](https://img.shields.io/badge/-WhatsApp-27d045?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=375291406806)
+[![](https://img.shields.io/badge/-Telegram-33B0E2?logo=telegram&logoColor=white)](https://t.me/androseto)
+[![](https://img.shields.io/badge/-Skype-0091D2?logo=skype&logoColor=white&)](skype:androsor99?chat)
+[![](https://img.shields.io/badge/-Gmail-dd4e42?logo=gmail&logoColor=white)](mailto:javaded78@gmail.com)
+[![](https://img.shields.io/badge/-StackOverflow-e7700d?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25639184/andrei-soroka)
 
 
 - 🔭 I am a motivated backend developer from Minsk. As a wheelchair user, I want to keep the fire in my eyes and develop
