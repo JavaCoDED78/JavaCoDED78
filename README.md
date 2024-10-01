@@ -25,7 +25,7 @@
 - 🔭 I am a motivated backend developer from Minsk. As a wheelchair user, I want to keep the fire in my eyes and develop
 further, because I get real pleasure from gaining new knowledge and acquiring new skills. As an engineer, to some extent
 a creative person, I always liked to see the live result of my work, so backend development attracted me to programming.
-- 🌱 I’m currently learning and discussing emerging technologies! I'm always interested in learning about new tech.
+- 🌱 Currently, I am studying and discussing new technologies! I have a great desire to work in a team and adopt the rich experience of your specialists.
 - 👯 I’m looking to collaborate on Backend development based projects.
 
 ## **Skills & Technologies** ##
