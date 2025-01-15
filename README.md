@@ -56,6 +56,7 @@ Kotlin / Apache Kafka / RabbitMQ / Kubernetes / Prometheus / Grafana / Micromete
 <a href="https://swagger.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/pheralb/svgl/7e0bb11c004829fe30b1cc7c16f96f71637e5f97/static/library/swagger.svg" alt="swagger" width="40" height="40"/></a>
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40" height="40"/></a>
 <a href="https://ru.selenide.org/" target="_blank" rel="noreferrer"> <img src="https://sdcast.ksdaemon.ru/wp-content/uploads/2017/03/selenide-logo-big.png" alt="selenide" width="40" height="40"/></a>
+<a href="https://qameta.io/" target="_blank" rel="noreferrer"> <img src="https://qameta.gallerycdn.vsassets.io/extensions/qameta/allure-azure-pipelines/1.4.4/1732793474686/Microsoft.VisualStudio.Services.Icons.Default" alt="allure" width="40" height="40"/></a>
 <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="https://www.logicbig.com/tutorials/unit-testing/mockito/images/mockito.png" alt="mockito" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/></a>
@@ -137,4 +138,3 @@ Kotlin / Apache Kafka / RabbitMQ / Kubernetes / Prometheus / Grafana / Micromete
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JavaCoDED78&theme=nord" alt="Github stats">
 </p>
-z
