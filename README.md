@@ -75,6 +75,7 @@ Kotlin / Apache Kafka / RabbitMQ / Kubernetes / Prometheus / Grafana / Micromete
 <a href="https://grpc.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="grpc" width="40" height="40"/></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://min.io/" target="_blank" rel="noreferrer"> <img src="https://min.io/resources/img/logo/MINIO_Bird.png" alt="minio" width="40" height="40"/></a>
+<a href="https://www.atlassian.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/></a>
 
 
 
