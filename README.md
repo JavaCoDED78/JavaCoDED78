@@ -136,5 +136,5 @@ Kotlin / Apache Kafka / RabbitMQ / Kubernetes / Prometheus / Grafana / Micromete
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JavaCoDED78&theme=nord" alt="Github stats">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JavaCoDED78&theme=nor" alt="GitHub Streak" /></a>
 </p>
