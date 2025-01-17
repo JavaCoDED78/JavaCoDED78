@@ -32,8 +32,8 @@ a creative person, I always liked to see the live result of my work, so backend 
 
 ### Backend:
 - Java Core / Java 8,11,17,21 / Java EE / Spring ( Boot, Web, Data, Security, Cloud, Messaging, WebFlux) / Hibernate / SQL: MySQL,
-  PostgreSQL / MongoDB / Redis / Liquibase / Groovy / Gradle / MapStruct / Thymeleaf / Maven / JUnit / Swagger / Git / Docker / Bash / Postman /
-Kotlin / Apache Kafka / RabbitMQ / Kubernetes / Prometheus / Grafana / Micrometer / Debezium / GraphQL / Grpc / AWS S3 / Minio 
+  PostgreSQL / MongoDB / Redis / Liquibase / Groovy / Gradle / MapStruct / Thymeleaf / Maven / JUnit / REST-Assured / Selenide / Allure / Swagger / Git / Docker / Bash / Postman /
+Kotlin / Apache Kafka / RabbitMQ / Kubernetes / Prometheus / Grafana / Micrometer / Debezium / GraphQL / Grpc / AWS S3 / Minio / Jira
 
 ####
 
