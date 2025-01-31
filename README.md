@@ -32,8 +32,8 @@ a creative person, I always liked to see the live result of my work, so backend 
 
 ### Backend:
 - Java Core / Java 8,11,17,21 / Java EE / Spring ( Boot, Web, Data, Security, Cloud, Messaging, WebFlux) / Hibernate / SQL: MySQL,
-  PostgreSQL / MongoDB / Redis / Liquibase / Groovy / Gradle / MapStruct / Thymeleaf / Maven / JUnit / Swagger / Git / Docker / Bash / Postman /
-Kotlin / Apache Kafka / RabbitMQ / Kubernetes / Prometheus / Grafana / Micrometer / Debezium / GraphQL / Grpc / AWS S3 / Minio 
+  PostgreSQL / MongoDB / Redis / Liquibase / Groovy / Gradle / MapStruct / Thymeleaf / Maven / JUnit / REST-Assured / Selenide / Allure / Swagger / Git / Docker / Bash / Postman /
+Kotlin / Apache Kafka / RabbitMQ / Kubernetes / Prometheus / Grafana / Micrometer / Debezium / GraphQL / Grpc / AWS S3 / Minio / Jira
 
 ####
 
@@ -55,6 +55,8 @@ Kotlin / Apache Kafka / RabbitMQ / Kubernetes / Prometheus / Grafana / Micromete
 <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"> <img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="thymeleaf" width="40" height="40"/></a>
 <a href="https://swagger.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/pheralb/svgl/7e0bb11c004829fe30b1cc7c16f96f71637e5f97/static/library/swagger.svg" alt="swagger" width="40" height="40"/></a>
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40" height="40"/></a>
+<a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://rest-assured.io/img/logo-transparent.png" alt="rest assured" width="40" height="40"/></a>
+<a href="https://appium.io/docs/en/latest/" target="_blank" rel="noreferrer"> <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/appium.svg" alt="appium" width="40" height="40"/></a>
 <a href="https://ru.selenide.org/" target="_blank" rel="noreferrer"> <img src="https://sdcast.ksdaemon.ru/wp-content/uploads/2017/03/selenide-logo-big.png" alt="selenide" width="40" height="40"/></a>
 <a href="https://qameta.io/" target="_blank" rel="noreferrer"> <img src="https://qameta.gallerycdn.vsassets.io/extensions/qameta/allure-azure-pipelines/1.4.4/1732793474686/Microsoft.VisualStudio.Services.Icons.Default" alt="allure" width="40" height="40"/></a>
 <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="https://www.logicbig.com/tutorials/unit-testing/mockito/images/mockito.png" alt="mockito" width="40" height="40"/></a>
