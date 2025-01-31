@@ -75,6 +75,7 @@ Kotlin / Apache Kafka / RabbitMQ / Kubernetes / Prometheus / Grafana / Micromete
 <a href="https://grpc.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="grpc" width="40" height="40"/></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://min.io/" target="_blank" rel="noreferrer"> <img src="https://min.io/resources/img/logo/MINIO_Bird.png" alt="minio" width="40" height="40"/></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
 <a href="https://www.atlassian.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/></a>
 
 
@@ -136,8 +137,9 @@ Kotlin / Apache Kafka / RabbitMQ / Kubernetes / Prometheus / Grafana / Micromete
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavaCoDED78&show_icons=true&theme=nord&&locale=en&layout=compact" width="355"/>
 </p>
 
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center">
   <a href="https://github.com/JavaCoDED78/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JavaCoDED78&theme=nord" alt="GitHub Streak" />
   </a>
 </div>
+
