@@ -119,6 +119,7 @@ Kotlin / Apache Kafka / RabbitMQ / Kubernetes / Prometheus / Grafana / Micromete
     + **Udemy** - «Hibernate» (https://www.udemy.com/course/hibernate-dmdev)
     + **Udemy** - «Spring» (https://www.udemy.com/course/spring-dmdev)
     + **Udemy** - «Bash» (https://www.udemy.com/course/bash-dmdev)
+    + **GetCourse** - «Docker» (https://dmdev.getcourse.ru/docker#price)
     + ..........
 
 * Traineeship
