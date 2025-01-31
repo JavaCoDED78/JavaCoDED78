@@ -139,7 +139,7 @@ Kotlin / Apache Kafka / RabbitMQ / Kubernetes / Prometheus / Grafana / Micromete
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavaCoDED78&show_icons=true&theme=nord&&locale=en&layout=compact" width="355"/>
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center">
+<div align="center">
   <a href="https://github.com/JavaCoDED78/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JavaCoDED78&theme=nord" alt="GitHub Streak" />
   </a>
