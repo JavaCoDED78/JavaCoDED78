@@ -137,7 +137,7 @@ Kotlin / Apache Kafka / RabbitMQ / Kubernetes / Prometheus / Grafana / Micromete
 
 <p align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=JavaCoDED78&show_icons=true&theme=nord&" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavaCoDED78&show_icons=true&theme=nord&&locale=en&layout=compact" width="355"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=JavaCoDED78&show_icons=true&theme=nord&&locale=en&layout=compact" width="355"/>
 </p>
 
 <div align="center">
